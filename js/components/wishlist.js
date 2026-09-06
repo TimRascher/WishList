@@ -33,6 +33,9 @@ function load() {
          if (item.tags.includes("BOARDGAME")) {
             return "boardgameBG"
          }
+         if (item.tags.includes("ROLEPLAYING")) {
+            return "rolePlayingBG"
+         }
          if (item.tags.includes("GAME")) {
             return "gameBG"
          }

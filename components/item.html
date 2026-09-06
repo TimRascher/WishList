@@ -21,6 +21,12 @@
          <h4>Description</h4>
          <p x-text="item.description"></p>
       </div>
+      <template x-if="item.reason.length > 0">
+         <div>
+            <h4>Reason I'd Like It</h4>
+            <p x-text="item.reason"></p>
+         </div>
+      </template>
       <div>
          <button @click="openURL()">Buy</button>
       </div>

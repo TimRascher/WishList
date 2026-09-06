@@ -3,6 +3,7 @@ export interface WishlistItem {
    id: string
    title: string
    description: string
+   reason: string
    tags: Tag[]
    images: Image[]
    priority: WishlistPriority

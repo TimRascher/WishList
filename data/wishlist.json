@@ -3,6 +3,7 @@
       "id": "39131cd5-5c98-479c-b897-aa397e95fa53",
       "title": "The Dwarves: Big Box",
       "description": "The Dwarves face the dark threat of Orcs, Trolls and Élfar. To defeat evil they must join forces and coordinate their actions.",
+      "reason": "Looks like a fun boardgame, and I really like dwarves.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -13,7 +14,7 @@
          "02-Back.jpg",
          "03-Game.jpg"
       ],
-      "priority": "HIGH",
+      "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B084KCD5PF/?coliid=I1IV8MYFSFYO95&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$"
    },
@@ -21,6 +22,7 @@
       "id": "58f44877-68c5-43a0-ab93-a954e20cf2e6",
       "title": "The Ghost in the Shell Legacy Edition Manga Box Set",
       "description": "The definitive Ghost in the Shell manga collection restores previously edited material across three deluxe hardcovers, presented in authentic right-to-left format. This premium box set also includes exclusive Shirow Masamune artwork, 11 posters, and collectible Fuchikoma stickers.",
+      "reason": "",
       "tags": [
          "MANGA",
          "READING",
@@ -32,5 +34,22 @@
       "priority": "LOW",
       "url": "https://www.amazon.com/dp/B0FCGDT59S/?coliid=I2QID0T1TIRORQ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$$$"
+   },
+   {
+      "id": "eaa13cb9-98e0-469c-992e-f0b03df93592",
+      "title": "The Monster Overhaul",
+      "description": "The Monster Overhaul is a massive Role Playing Game bestiary designed for at-table utility. Monsters are presented alongside useful tools, ready for immediate use in any scenario.",
+      "reason": "This would be great for running monsters at the table, and I'd like to start doing shop games again when the girl is older, and this would be great for that.",
+      "tags": [
+         "GAME",
+         "READING",
+         "ROLEPLAYING"
+      ],
+      "images": [
+         "01-Cover.webp"
+      ],
+      "priority": "HIGH",
+      "url": "https://www.nobleknight.com/P/2148096143/Monster-Overhaul-The",
+      "cost": "$$$"
    }
 ]
