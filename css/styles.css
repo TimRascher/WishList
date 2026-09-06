@@ -18,39 +18,6 @@
    padding-inline-start: 0;
 }
 
-article.boardgameBG {
-   border: 2px solid #00A66E;
-   background-color: #042C1B;
-}
-
-article.boardgameBG>.thumbnail {
-   border: 2px solid #00A66E;
-   overflow: hidden;
-   border-radius: 10px;
-}
-
-article.gameBG {
-   border: 2px solid #E8D600;
-   background-color: #5B5300;
-}
-
-article.gameBG>.thumbnail {
-   border: 2px solid #E8D600;
-   overflow: hidden;
-   border-radius: 10px;
-}
-
-article.defaultBG {
-   border: 2px solid #D1D5DB;
-   background-color: #2A3140;
-}
-
-article.defaultBG>.thumbnail {
-   border: 2px solid #D1D5DB;
-   overflow: hidden;
-   border-radius: 10px;
-}
-
 article.mainItem {
    display: grid;
    grid-template-columns: minmax(0, 1fr) auto;
@@ -66,6 +33,20 @@ article.mainItem>.itemRow {
 }
 
 article.mainItem>.thumbnail {
+   grid-column: 2;
+   grid-row: 1 / span 2;
+
+   height: 100%;
+   width: auto;
+   max-width: 160px;
+
+   display: block;
+   object-fit: contain;
+   justify-self: end;
+   align-self: stretch;
+}
+
+article.mainItem>.thumbnail-noImage {
    grid-column: 2;
    grid-row: 1 / span 2;
 

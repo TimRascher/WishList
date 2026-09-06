@@ -5,6 +5,7 @@ export interface WishlistItem {
    description: string
    tags: Tag[]
    images: Image[]
+   priority: WishlistPriority
 }
 
 /** The complete ordered collection of wishlist entries. */
@@ -13,3 +14,9 @@ export type Wishlist = WishlistItem[]
 export type Tag = string
 
 export type Image = string
+
+export enum WishlistPriority {
+   HIGH = "HIGH",
+   MEDIUM = "MEDIUM",
+   LOW = "LOW"
+}

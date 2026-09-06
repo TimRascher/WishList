@@ -27,7 +27,7 @@ function load() {
       },
       /**
        * @param {import("../../types/wishlist").WishlistItem} item
-       * @returns {string|undefined}
+       * @returns {string}
        */
       getBackground(item) {
          if (item.tags.includes("BOARDGAME")) {
@@ -37,6 +37,14 @@ function load() {
             return "gameBG"
          }
          return "defaultBG"
+      },
+      /**
+       * @param {import("../../types/wishlist").WishlistItem} item
+       * @returns {string}
+       */
+      getThumbnailClass(item) {
+         if (item.images.length > 0) { return "thumbnail" }
+         return "thumbnail-noImage"
       },
       /** Performs the component's initial wishlist load. */
       async init() {

@@ -12,6 +12,18 @@
          "01-Cover.jpg",
          "02-Back.jpg",
          "03-Game.jpg"
-      ]
+      ],
+      "priority": "HIGH"
+   },
+   {
+      "id": "39131cd5-5c98-479c-b897-aa397e95fa54",
+      "title": "ABC Test Item",
+      "description": "The Dwarves face the dark threat of Orcs, Trolls and Élfar. To defeat evil they must join forces and coordinate their actions.",
+      "tags": [
+         "GAME",
+         "DWARVES"
+      ],
+      "images": [],
+      "priority": "HIGH"
    }
 ]

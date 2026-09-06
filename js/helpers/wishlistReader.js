@@ -1,3 +1,19 @@
+
+/** @typedef {import("../../types/wishlist").Wishlist} Wishlist*/
+/**
+ * Sorts the wishlist by priority (high to low), then by title (A to Z).
+ *
+ * @param {Wishlist} wishlist 
+ * @returns {Wishlist}
+ */
+function sort(wishlist) {
+   const priorities = { HIGH: 0, MEDIUM: 1, LOW: 2 }
+   return wishlist.sort((a, b) =>
+      priorities[a.priority] - priorities[b.priority] ||
+      a.title.localeCompare(b.title)
+   )
+}
+
 /** Loads and retains the wishlist data shared by the Alpine components. */
 class WishlistReader {
    /** @type {import("../../types/wishlist").Wishlist} */
@@ -20,7 +36,7 @@ class WishlistReader {
             return null
          }
 
-         this.wishlist = await response.json()
+         this.wishlist = sort(await response.json())
          return this.wishlist
       } catch {
          return null

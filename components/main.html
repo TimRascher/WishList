@@ -7,9 +7,7 @@
                <p x-text="tag" class="item"></p>
             </template>
          </div>
-         <div x-if="item.images.length>0" class="thumbnail">
-            <img :src="getImage(item)" />
-         </div>
+         <img :src="getImage(item)" :class="getThumbnailClass(item)" />
       </article>
    </template>
 </div>
