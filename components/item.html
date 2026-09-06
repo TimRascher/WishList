@@ -1,0 +1,6 @@
+<template x-if="$store.app.shouldShowItem">
+   <div x-data="listItem">
+      <p x-text="item.title"></p>
+      <button @click="$store.app.showWishlist()">Close</button>
+   </div>
+</template>

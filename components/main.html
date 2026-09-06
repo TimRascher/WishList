@@ -1,0 +1,15 @@
+<div x-data="wishlist">
+   <template x-for="item in items" :key="item.id">
+      <article @click="$store.app.showItem(item.id)" class="clickable mainItem" :class="getBackground(item)">
+         <h2 x-text="item.title" class="itemRow"></h2>
+         <div class="hor-view itemRow">
+            <template x-for="tag in item.tags" :key="tag">
+               <p x-text="tag" class="item"></p>
+            </template>
+         </div>
+         <div x-if="item.images.length>0" class="thumbnail">
+            <img :src="getImage(item)" />
+         </div>
+      </article>
+   </template>
+</div>

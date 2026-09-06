@@ -1,0 +1,16 @@
+{
+  "name": "wishlist",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "typecheck": "tsc --project jsconfig.json"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/alpinejs": "^3.13.11",
+    "typescript": "^7.0.2"
+  }
+}
