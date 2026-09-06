@@ -36,6 +36,12 @@ function load() {
          if (item.tags.includes("GAME")) {
             return "gameBG"
          }
+         if (item.tags.includes("MANGA")) {
+            return "mangaBG"
+         }
+         if (item.tags.includes("READING")) {
+            return "readingBG"
+         }
          return "defaultBG"
       },
       /**

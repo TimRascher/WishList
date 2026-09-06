@@ -20,6 +20,28 @@ article.gameBG>.thumbnail {
    border-radius: 10px;
 }
 
+article.mangaBG {
+   border: 2px solid #9CA7FA;
+   background-color: #0E2358;
+}
+
+article.mangaBG>.thumbnail {
+   border: 2px solid #9CA7FA;
+   overflow: hidden;
+   border-radius: 10px;
+}
+
+article.readingBG {
+   border: 2px solid #F17961;
+   background-color: #45150C;
+}
+
+article.readingBG>.thumbnail {
+   border: 2px solid #F17961;
+   overflow: hidden;
+   border-radius: 10px;
+}
+
 article.defaultBG {
    border: 2px solid #D1D5DB;
    background-color: #2A3140;

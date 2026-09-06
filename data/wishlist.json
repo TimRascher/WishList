@@ -16,14 +16,19 @@
       "priority": "HIGH"
    },
    {
-      "id": "39131cd5-5c98-479c-b897-aa397e95fa54",
-      "title": "ABC Test Item",
-      "description": "The Dwarves face the dark threat of Orcs, Trolls and Élfar. To defeat evil they must join forces and coordinate their actions.",
+      "id": "58f44877-68c5-43a0-ab93-a954e20cf2e6",
+      "title": "The Ghost in the Shell Legacy Edition Manga Box Set",
+      "description": "The definitive Ghost in the Shell manga collection restores previously edited material across three deluxe hardcovers, presented in authentic right-to-left format. This premium box set also includes exclusive Shirow Masamune artwork, 11 posters, and collectible Fuchikoma stickers.",
       "tags": [
-         "GAME",
-         "DWARVES"
+         "MANGA",
+         "READING",
+         "CYBERPUNK"
       ],
-      "images": [],
+      "images": [
+         "01-Cover.jpg",
+         "02-Back.jpg",
+         "03-Game.jpg"
+      ],
       "priority": "HIGH"
    }
 ]

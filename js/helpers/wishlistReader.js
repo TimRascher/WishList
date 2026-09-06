@@ -8,9 +8,21 @@
  */
 function sort(wishlist) {
    const priorities = { HIGH: 0, MEDIUM: 1, LOW: 2 }
+
+   const normalizedTitle = (/** @type {string} */ title) =>
+      title.replace(/^(?:a|the)\s+/i, '')
+
+   wishlist.forEach(({ tags }) => {
+      tags.sort((a, b) =>
+         a.localeCompare(b, undefined, { sensitivity: 'base' })
+      )
+   })
+
    return wishlist.sort((a, b) =>
       priorities[a.priority] - priorities[b.priority] ||
-      a.title.localeCompare(b.title)
+      normalizedTitle(a.title).localeCompare(normalizedTitle(b.title), undefined, {
+         sensitivity: 'base',
+      })
    )
 }
 
