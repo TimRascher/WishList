@@ -53,8 +53,8 @@ function load() {
          return "thumbnail-noImage"
       },
       /** Performs the component's initial wishlist load. */
-      async init() {
-         await this.refresh()
+      init() {
+         this.items = wishlistReader.wishlist
       }
    }))
 }
