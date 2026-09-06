@@ -6,6 +6,7 @@
             <template x-for="tag in item.tags" :key="tag">
                <p x-text="tag" class="item"></p>
             </template>
+            <p x-text="item.cost" class="item"></p>
          </div>
          <img :src="getImage(item)" :class="getThumbnailClass(item)" />
       </article>

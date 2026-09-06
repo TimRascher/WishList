@@ -13,7 +13,9 @@
          "02-Back.jpg",
          "03-Game.jpg"
       ],
-      "priority": "HIGH"
+      "priority": "HIGH",
+      "url": "https://www.amazon.com/dp/B084KCD5PF/?coliid=I1IV8MYFSFYO95&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
    },
    {
       "id": "58f44877-68c5-43a0-ab93-a954e20cf2e6",
@@ -25,10 +27,10 @@
          "CYBERPUNK"
       ],
       "images": [
-         "01-Cover.jpg",
-         "02-Back.jpg",
-         "03-Game.jpg"
+         "01-Cover.jpg"
       ],
-      "priority": "HIGH"
+      "priority": "LOW",
+      "url": "https://www.amazon.com/dp/B0FCGDT59S/?coliid=I2QID0T1TIRORQ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
    }
 ]

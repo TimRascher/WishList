@@ -14,6 +14,9 @@ function load() {
       getImage(name) {
          return `images/${this.item?.id}/${name}`
       },
+      openURL() {
+         window.open(this.item?.url, '_blank', 'noopener,noreferrer');
+      },
       /** Resolves the selected item from the shared wishlist data. */
       init() {
          this.item = wishlistReader.wishlist.find(

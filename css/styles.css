@@ -59,3 +59,23 @@ article.mainItem>.thumbnail-noImage {
    justify-self: end;
    align-self: stretch;
 }
+
+.banner {
+   display: grid;
+   grid-template-columns: minmax(0, 1fr) auto;
+}
+
+.banner>.end {
+   grid-column: 2;
+   grid-row: 1 / span 2;
+}
+
+.hor-view img {
+   height: 100%;
+   width: auto;
+   max-width: 160px;
+
+   border: 2px solid #D1D5DB;
+   overflow: hidden;
+   border-radius: 10px;
+}

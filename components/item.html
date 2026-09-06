@@ -1,6 +1,28 @@
 <template x-if="$store.app.shouldShowItem">
    <div x-data="listItem">
-      <p x-text="item.title"></p>
-      <button @click="$store.app.showWishlist()">Close</button>
+      <div class="banner">
+         <h2 x-text="item.title"></h2>
+         <button class="end outline contrast" @click="$store.app.showWishlist()">Close</button>
+      </div>
+      <div class="hor-view itemRow">
+         <template x-for="tag in item.tags" :key="tag">
+            <p x-text="tag" class="item"></p>
+         </template>
+         <p x-text="item.cost" class="item"></p>
+      </div>
+      <div class="hor-view">
+         <template x-for="image in item.images" :key="image">
+            <a :href="getImage(image)" target="_blank">
+               <img :src="getImage(image)" />
+            </a>
+         </template>
+      </div>
+      <div>
+         <h4>Description</h4>
+         <p x-text="item.description"></p>
+      </div>
+      <div>
+         <button @click="openURL()">Buy</button>
+      </div>
    </div>
 </template>
