@@ -331,5 +331,130 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0DNF3RKSR/?coliid=I148DESF0B7R4G&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$"
+   },
+   {
+      "id": "3e18b855-1347-4d3f-b183-63f4d9eb90b3",
+      "title": "Arcs",
+      "description": "A tactical space-opera board game for two to four players featuring a trick-taking-inspired action system, galactic warfare, resource control, diplomacy, and shifting scoring ambitions.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "SPACE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0D856FJ1J/?coliid=I2PM5I2MSNCCIP&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$$$"
+   },
+   {
+      "id": "c12b0225-6765-4c2e-9677-028f71227d91",
+      "title": "Epic Spell Wars of the Battle Wizards: ANNIHILAGEDDON 3 - Satanic Panic",
+      "description": "The third standalone ANNIHILAGEDDON deck-building game adds Satan as a playable role, ten oversized wizards, familiars, spellbooks, Satanic Mayhems, and new Dead Wizard tokens.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0D7F6SVHR/?coliid=I39O2H6URRFY3X&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "c90704f7-7648-4ad6-9388-25eb647f06cb",
+      "title": "Cyberpunk RED: Combat Zone - Lawmen Starter Gang",
+      "description": "A Lawmen starter gang expansion for the Cyberpunk RED: Combat Zone tabletop skirmish game, adding new characters and tactical options for battles in Night City.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "CYBERPUNK"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CK41DFPX/?coliid=I1RTLZJLL1Z8SR&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$"
+   },
+   {
+      "id": "6de2d197-21be-47bf-91e5-143696e15db8",
+      "title": "Cyberpunk RED: Combat Zone - Edgerunners 2 Starter Gang",
+      "description": "An Edgerunners starter gang for the Cyberpunk RED: Combat Zone tabletop skirmish game, providing new characters and crew-building options for objective-based battles.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "CYBERPUNK"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CK7KSPBS/?coliid=I16446KN3ZEWU4&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$"
+   },
+   {
+      "id": "c226ecd6-7908-4efd-9093-600d65d1ff79",
+      "title": "Cyberpunk RED: Combat Zone - Edgerunners 1 Starter Gang",
+      "description": "An Edgerunners starter gang for the Cyberpunk RED: Combat Zone tabletop skirmish game, expanding the available characters, crews, and tactical combinations.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "CYBERPUNK"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CK494DVL/?coliid=IG9YSWKG1MGGK&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$"
+   },
+   {
+      "id": "3247fa19-3992-4277-9cc3-a8dabeb74282",
+      "title": "Arcknight Flat Plastic Miniatures: Spacefarers",
+      "description": "A set of 56 unique double-sided, full-color science-fiction miniatures made from flexible transparent plastic. They pack flat and work with Starfinder, Shadowrun, and other tabletop roleplaying games.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "ROLEPLAYING",
+         "MINATURE",
+         "SCI-FI"
+      ],
+      "images": [
+         "01-Flatpack.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B08CBQ399R/?coliid=I3HKN2C60G06EK&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "449df3ff-1b1b-4180-bf6b-f0c86838dc76",
+      "title": "Super Mario Bros. Wonder",
+      "description": "A side-scrolling Super Mario adventure for Nintendo Switch featuring Wonder Flowers, a large playable cast, new power-ups, and local multiplayer.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "VIDEOGAME",
+         "NINTENDO",
+         "MARIO"
+      ],
+      "images": [
+         "01-Cover.jpg",
+         "02-Back.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0C8VHZR14/?coliid=I2IHO83XDSNF6L&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$$"
    }
 ]
