@@ -7,6 +7,14 @@ function load() {
    Alpine.data("listItem", () => ({
       /** @type {WishlistItem|undefined} */
       item: undefined,
+      /** @type {string|undefined} */
+      showImage: undefined,
+      /**
+       * @param {string} image
+       */
+      setImage(image) {
+         this.showImage = image
+      },
       /**
        * @param {any} name
        * @returns {string}

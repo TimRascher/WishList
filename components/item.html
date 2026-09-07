@@ -15,7 +15,7 @@
       </div>
       <div class="hor-view">
          <template x-for="image in item.images" :key="image">
-            <a :href="getImage(image)" target="_blank">
+            <a href="#" @click.prevent="setImage(image)">
                <img :src="getImage(image)" />
             </a>
          </template>
@@ -30,5 +30,13 @@
             <p x-text="item.reason"></p>
          </div>
       </template>
+      <dialog :open="showImage">
+         <article>
+            <header>
+               <button aria-label="Close" rel="prev" @click="setImage(undefined)"></button>
+            </header>
+            <img :src="getImage(showImage)" />
+         </article>
+      </dialog>
    </div>
 </template>
