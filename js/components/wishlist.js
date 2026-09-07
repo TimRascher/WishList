@@ -1,5 +1,11 @@
 import wishlistReader from "../helpers/wishlistReader.js"
 
+const SearchParam = {
+   TEXT: "search",
+   COST: "cost",
+   PRIORITY: "priority",
+}
+
 /** Registers the Alpine component that owns the rendered wishlist. */
 function load() {
    Alpine.data("wishlist", () => ({
@@ -8,6 +14,8 @@ function load() {
       searchText: "",
       costFilter: "",
       priorityFilter: "",
+      /** @type {(() => void)|null} */
+      handlePopState: null,
       screenSize: window.matchMedia("(min-width: 768px)"),
       /**
        * Reloads the wishlist while preserving the currently rendered items if
@@ -18,7 +26,7 @@ function load() {
       async refresh() {
          const items = await wishlistReader.read()
          if (items) {
-            this.items = items
+            this.filterItems()
          }
       },
       /**
@@ -68,7 +76,8 @@ function load() {
          if (item.images.length > 0) { return "thumbnail" }
          return "thumbnail-noImage"
       },
-      search() {
+      /** Applies the current filters to the full wishlist. */
+      filterItems() {
          let items = wishlistReader.wishlist
          if (this.searchText.length >= 3) {
             items = wishlistReader.wishlist.filter(
@@ -84,6 +93,54 @@ function load() {
          }
          this.items = items
       },
+      /**
+       * Adds the current search state to the URL and filters the wishlist.
+       *
+       * @param {HTMLInputElement|null} searchInput Search field to refocus after
+       * the rendered results and history entry are updated.
+       * @param {string|null} searchText Latest value from the search field.
+       */
+      search(searchInput = null, searchText = null) {
+         const shouldRestoreFocus = searchInput !== null
+            && document.activeElement === searchInput
+         if (searchText !== null) {
+            this.searchText = searchText
+         }
+         const url = new URL(window.location.href)
+         const setOrDelete = (/** @type {string} */ name, /** @type {string} */ value) => {
+            if (value === "") {
+               url.searchParams.delete(name)
+            } else {
+               url.searchParams.set(name, value)
+            }
+         }
+
+         setOrDelete(SearchParam.TEXT, this.searchText)
+         setOrDelete(SearchParam.COST, this.costFilter)
+         setOrDelete(SearchParam.PRIORITY, this.priorityFilter)
+
+         if (url.href !== window.location.href) {
+            window.history.pushState(window.history.state, "", url)
+         }
+         this.filterItems()
+
+         if (shouldRestoreFocus) {
+            Alpine.nextTick(() => {
+               const currentSearchInput = document.querySelector('input[type="search"]')
+               if (currentSearchInput instanceof HTMLInputElement) {
+                  currentSearchInput.focus({ preventScroll: true })
+               }
+            })
+         }
+      },
+      /** Restores search state from the current URL without changing history. */
+      syncFromUrl() {
+         const params = new URL(window.location.href).searchParams
+         this.searchText = params.get(SearchParam.TEXT) || ""
+         this.costFilter = params.get(SearchParam.COST) || ""
+         this.priorityFilter = params.get(SearchParam.PRIORITY) || ""
+         this.filterItems()
+      },
       clear() {
          this.searchText = ""
          this.costFilter = ""
@@ -92,13 +149,21 @@ function load() {
       },
       /** Performs the component's initial wishlist load. */
       init() {
-         this.items = wishlistReader.wishlist
-         window.addEventListener("wishlist:list-loaded", event => {
-            this.items = wishlistReader.wishlist
+         this.syncFromUrl()
+         this.handlePopState = () => this.syncFromUrl()
+         window.addEventListener("popstate", this.handlePopState)
+         window.addEventListener("wishlist:list-loaded", () => {
+            this.filterItems()
          })
-         window.addEventListener("resize", event => {
+         window.addEventListener("resize", () => {
             this.screenSize = window.matchMedia("(min-width: 768px)")
          })
+      },
+      /** Removes the component's navigation listener when Alpine tears it down. */
+      destroy() {
+         if (this.handlePopState) {
+            window.removeEventListener("popstate", this.handlePopState)
+         }
       }
    }))
 }

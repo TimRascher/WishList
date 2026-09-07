@@ -1,6 +1,7 @@
 <div x-data="wishlist">
    <div :role="screenSize.matches ? 'group' : null">
-      <input type="search" @input.debounce.300ms="search()" x-model="searchText">
+      <input type="search" x-ref="searchInput"
+         @input.debounce.700ms="search($refs.searchInput, $event.target.value)" :value="searchText">
       <select name="select" aria-label="Select" required x-model="costFilter" @change="search()">
          <option selected value="">Any Cost</option>
          <option value="$">$ - $20 or Less</option>

@@ -16,9 +16,9 @@
    <main class="container">
       <h1>Tim's Wishlist</h1>
       <hr />
-      <div x-data="remoteComponent('main')" x-show="$store.app.shouldShowWishlist" x-html="html">
+      <div x-data="remoteComponent('main')" x-show="$store.app.shouldShowWishlist">
       </div>
-      <div x-data="remoteComponent('item')" x-html="html">
+      <div x-data="remoteComponent('item')">
       </div>
    </main>
 </body>

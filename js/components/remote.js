@@ -28,6 +28,11 @@ export default function load() {
                }
 
                this.html = await response.text()
+
+               // Inject the partial once. A reactive `x-html` binding also
+               // tracks state read while its nested Alpine components are
+               // initialized, which can replace focused controls on input.
+               this.$root.innerHTML = this.html
             } catch (/** @type {any} */ error) {
                if (error.name !== 'AbortError') {
                   console.error(error)
