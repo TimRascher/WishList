@@ -456,5 +456,96 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0C8VHZR14/?coliid=I2IHO83XDSNF6L&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
       "cost": "$$$"
+   },
+   {
+      "id": "f517062e-e7ef-4eb1-b59e-ed228106fb75",
+      "title": "Dune: The Spacing Guild Expansion",
+      "description": "An expansion for Dune: War for Arrakis that adds the Space Board, The Spacing Guild, CHOAM, The Landsraad, reinforcements, detailed figures, and new asymmetric strategic options.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "DUNE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CT61P3H5/?coliid=I14XX3DPD1M8WZ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "e90567e2-354b-4ec5-a0e5-adea06a41b17",
+      "title": "Dune: War for Arrakis",
+      "description": "An asymmetric strategy board game in which House Atreides and House Harkonnen battle for control of Arrakis and its spice using detailed plastic figures and distinct tactics.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "DUNE"
+      ],
+      "images": [
+         "01-Cover.jpg",
+         "02-Board.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CT61GDM3/?coliid=IRTZIGE4F5OUC&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "e01ad1a2-95bf-4223-b162-811af1b8f145",
+      "title": "Conquest: W'adrhun - Apex Predator",
+      "description": "A large W'adrhun monster miniature for Conquest featuring an alternate head and a plastic rider figure, with assembly instructions included.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "HOBBY"
+      ],
+      "images": [
+         "01-Dino.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B09NQNT1T5/?coliid=I2PXHZ6OD9B93L&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "9579fc53-5fe2-49fd-b123-bced755b4473",
+      "title": "Conquest: W'adrhun - Tontorr",
+      "description": "A huge 38mm-scale plastic monster miniature for the W'adrhun army, supplied with three crew miniatures and a command card. Assembly is required.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "HOBBY"
+      ],
+      "images": [
+         "01-Cover.jpg",
+         "02-Dino.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CK4ZQGP7/?coliid=IRMIF3L9UUFDP&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "054f85f8-6c87-4404-8568-51e8414fc95d",
+      "title": "Conquest: W'adrhun - Drum Beast",
+      "description": "A huge plastic monster miniature for the W'adrhun army, supplied with three crew miniatures and a command card. Assembly is required.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "HOBBY"
+      ],
+      "images": [
+         "01-Cover.jpg",
+         "02-Dino.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CK52V2X3/?coliid=I1VWPXU55J6FSB&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
    }
 ]
