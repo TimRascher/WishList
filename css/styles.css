@@ -68,6 +68,8 @@ article.mainItem>.thumbnail-noImage {
 .banner>.end {
    grid-column: 2;
    grid-row: 1 / span 2;
+   min-width: 160px;
+   margin: 4px;
 }
 
 .hor-view img {

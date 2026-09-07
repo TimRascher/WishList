@@ -54,7 +54,7 @@
    },
    {
       "id": "46ca5a72-109b-4258-91e9-f218a1b9e9ca",
-      "title": "Grupo Erik Jurassic Park Lamp",
+      "title": "Jurassic Park Lamp",
       "description": "A Jurassic Park-themed decorative lamp for adding an illuminated franchise display to a bedroom, office, or game room.",
       "reason": "",
       "tags": [
@@ -63,9 +63,10 @@
          "JURASSIC PARK"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Lamp.jpg",
+         "02-LampOn.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/B0CDTSL787/?coliid=I13CCF8ILPUJR3&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
       "cost": "$$$"
    },
@@ -80,9 +81,9 @@
          "JURASSIC PARK"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Legos.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/B0CGY4XXW3/?coliid=I8EHSA5ICT29M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
       "cost": "$$"
    },
@@ -97,7 +98,7 @@
          "SPACE"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Legos.jpg"
       ],
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0CGY4H58S/?coliid=I35698P4SE9ILS&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
@@ -114,7 +115,7 @@
          "STAR WARS"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Lego.jpg"
       ],
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0FMZD93DV/?coliid=I2RA6TCN7QC36Q&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
@@ -131,7 +132,7 @@
          "SPACE"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Lego.jpg"
       ],
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0BSRDT562/?coliid=I2V9V4T0J9B6HQ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
@@ -148,7 +149,7 @@
          "SQUIRTLE"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Bottle.jpg"
       ],
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0FQ4DL5F4/?coliid=IO5X52DXYIPKY&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
@@ -165,10 +166,28 @@
          "SAND"
       ],
       "images": [
-         "01-Cover.jpg"
+         "01-Example.jpg",
+         "01-Includes.jpg"
       ],
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0G4SFDKQK/?coliid=I227E3CBPL89KQ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
       "cost": "$$$$$"
+   },
+   {
+      "id": "db3fd0db-22d5-4bc2-8ee0-eef95bfb607d",
+      "title": "Weekend Warriors: The Ultimate Tabletop Skirmish Game",
+      "description": "Weekend Warriors is the ultimate tabletop skirmish game to play with your kids! It's a fast-paced, action-packed tabletop skirmish game that is fun to prepare and play together.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "READING"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "HIGH",
+      "url": "https://www.amazon.com/dp/B09K1XCSPY/?coliid=I3RZC1CE3WVZDF&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$"
    }
 ]

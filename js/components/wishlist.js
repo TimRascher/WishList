@@ -38,6 +38,15 @@ function load() {
          if (item.tags.includes("ROLEPLAYING")) {
             return "rolePlayingBG"
          }
+         if (item.tags.includes("LEGO")) {
+            return "legoBG"
+         }
+         if (item.tags.includes("HOME")) {
+            return "homeBG"
+         }
+         if (item.tags.includes("WARGAME")) {
+            return "wargameBG"
+         }
          if (item.tags.includes("GAME")) {
             return "gameBG"
          }

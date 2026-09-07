@@ -53,6 +53,39 @@ article.rolePlayingBG>.thumbnail {
    border-radius: 10px;
 }
 
+article.legoBG {
+   border: 2px solid #FFBF00;
+   background-color: #3F2D00;
+}
+
+article.legoBG>.thumbnail {
+   border: 2px solid #FFBF00;
+   overflow: hidden;
+   border-radius: 10px;
+}
+
+article.homeBG {
+   border: 2px solid #BD9FDF;
+   background-color: #3F1E6D;
+}
+
+article.homeBG>.thumbnail {
+   border: 2px solid #BD9FDF;
+   overflow: hidden;
+   border-radius: 10px;
+}
+
+article.wargameBG {
+   border: 2px solid #D93526;
+   background-color: #72170F;
+}
+
+article.wargameBG>.thumbnail {
+   border: 2px solid #D93526;
+   overflow: hidden;
+   border-radius: 10px;
+}
+
 article.defaultBG {
    border: 2px solid #D1D5DB;
    background-color: #2A3140;
