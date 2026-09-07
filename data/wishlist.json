@@ -51,5 +51,124 @@
       "priority": "HIGH",
       "url": "https://www.nobleknight.com/P/2148096143/Monster-Overhaul-The",
       "cost": "$$$"
+   },
+   {
+      "id": "46ca5a72-109b-4258-91e9-f218a1b9e9ca",
+      "title": "Grupo Erik Jurassic Park Lamp",
+      "description": "A Jurassic Park-themed decorative lamp for adding an illuminated franchise display to a bedroom, office, or game room.",
+      "reason": "",
+      "tags": [
+         "HOME",
+         "DECOR",
+         "JURASSIC PARK"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CDTSL787/?coliid=I13CCF8ILPUJR3&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "45679019-f61e-41c4-b24d-4405c96c591d",
+      "title": "LEGO Jurassic World Dinosaur Fossils: T. Rex Skull",
+      "description": "A buildable LEGO T. rex skull fossil display for ages 9 and up, set 76964.",
+      "reason": "",
+      "tags": [
+         "LEGO",
+         "BUILDING",
+         "JURASSIC PARK"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CGY4XXW3/?coliid=I8EHSA5ICT29M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "3b3113ac-8042-40fb-a38a-127365b90707",
+      "title": "LEGO City Interstellar Spaceship",
+      "description": "A LEGO City space building set with an interstellar spacecraft, drone, and astronaut figure, set 60430.",
+      "reason": "",
+      "tags": [
+         "LEGO",
+         "BUILDING",
+         "SPACE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CGY4H58S/?coliid=I35698P4SE9ILS&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$"
+   },
+   {
+      "id": "9fbe9665-068c-474a-8bd4-013af5a2e9df",
+      "title": "LEGO Star Wars: The Mandalorian and Grogu Razor Crest",
+      "description": "A build-and-display LEGO Star Wars model of the Razor Crest from The Mandalorian and Grogu, set 75447.",
+      "reason": "",
+      "tags": [
+         "LEGO",
+         "BUILDING",
+         "STAR WARS"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0FMZD93DV/?coliid=I2RA6TCN7QC36Q&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "e41bd688-dfba-4335-ba68-85cd5b7553ee",
+      "title": "LEGO Creator 3-in-1 Space Roller Coaster",
+      "description": "A LEGO Creator amusement-park set that rebuilds into a space roller coaster, drop tower, or carousel and includes five minifigures, set 31142.",
+      "reason": "",
+      "tags": [
+         "LEGO",
+         "BUILDING",
+         "SPACE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BSRDT562/?coliid=I2V9V4T0J9B6HQ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "8841da41-e0fd-4204-b4db-9d8d1c3bcb75",
+      "title": "Igloo Pokémon Squirtle 16 oz Stainless Steel Can Tumbler",
+      "description": "A blue 16-ounce Squirtle-themed insulated stainless steel can tumbler from Igloo.",
+      "reason": "",
+      "tags": [
+         "DRINKWARE",
+         "POKÉMON",
+         "SQUIRTLE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0FQ4DL5F4/?coliid=IO5X52DXYIPKY&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "a4a84ad0-66dd-4203-b8f3-7b9c4c7b0062",
+      "title": "Sandmasons Master Kit",
+      "description": "A durable sandcastle construction set with interlocking forms and tools for building with sand or snow.",
+      "reason": "",
+      "tags": [
+         "OUTDOORS",
+         "BUILDING",
+         "SAND"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0G4SFDKQK/?coliid=I227E3CBPL89KQ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
+      "cost": "$$$$$"
    }
 ]
