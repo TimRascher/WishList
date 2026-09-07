@@ -29,5 +29,6 @@ export enum Cost {
    COST80 = "$$$$",
    COST60 = "$$$",
    COST40 = "$$",
-   COST20 = "$"
+   COST20 = "$",
+   ANY = ""
 }

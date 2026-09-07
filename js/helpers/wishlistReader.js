@@ -49,6 +49,13 @@ class WishlistReader {
          }
 
          this.wishlist = sort(await response.json())
+         window.dispatchEvent(
+            new CustomEvent("wishlist:list-loaded", {
+               detail: {
+                  loaded: true
+               }
+            })
+         )
          return this.wishlist
       } catch {
          return null

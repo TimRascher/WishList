@@ -5,6 +5,8 @@ function load() {
    Alpine.data("wishlist", () => ({
       /** @type {import("../../types/wishlist").Wishlist} */
       items: [],
+      searchText: "",
+      costFilter: "",
       /**
        * Reloads the wishlist while preserving the currently rendered items if
        * the data source is unavailable.
@@ -55,9 +57,30 @@ function load() {
          if (item.images.length > 0) { return "thumbnail" }
          return "thumbnail-noImage"
       },
+      search() {
+         let items = wishlistReader.wishlist
+         if (this.searchText.length >= 3) {
+            items = wishlistReader.wishlist.filter(
+               item => item.title.toLowerCase().includes(this.searchText.toLowerCase())
+                  || item.tags.filter(tag => tag.toLowerCase().includes(this.searchText.toLowerCase())).length > 0
+            )
+         }
+         if (this.costFilter !== "") {
+            items = items.filter(item => item.cost === this.costFilter)
+         }
+         this.items = items
+      },
+      clear() {
+         this.searchText = ""
+         this.costFilter = ""
+         this.search()
+      },
       /** Performs the component's initial wishlist load. */
       init() {
          this.items = wishlistReader.wishlist
+         window.addEventListener("wishlist:list-loaded", event => {
+            this.items = wishlistReader.wishlist
+         })
       }
    }))
 }

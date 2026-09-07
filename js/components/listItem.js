@@ -21,6 +21,10 @@ function load() {
       init() {
          this.item = wishlistReader.wishlist.find(
             (/** @type {WishlistItem} */ i) => i.id === appStore.itemId)
+         window.addEventListener("wishlist:list-loaded", event => {
+            this.item = wishlistReader.wishlist.find(
+               (/** @type {WishlistItem} */ i) => i.id === appStore.itemId)
+         })
       }
    }))
 }

@@ -1,4 +1,16 @@
 <div x-data="wishlist">
+   <div role="group">
+      <input type="search" @input.debounce.300ms="search()" x-model="searchText">
+      <select name="select" aria-label="Select" required x-model="costFilter" @change="search()">
+         <option selected value="">Any</option>
+         <option value="$">$ - $20 or Less</option>
+         <option value="$$">$$ - $20 to $40</option>
+         <option value="$$$">$$$ - $40 to $60</option>
+         <option value="$$$$">$$$$ - $60 to $80</option>
+         <option value="$$$$$">$$$$$ - $80 or More</option>
+      </select>
+      <button @click="clear()">X</button>
+   </div>
    <template x-for="item in items" :key="item.id">
       <article @click="$store.app.showItem(item.id)" class="clickable mainItem" :class="getBackground(item)">
          <h2 x-text="item.title" class="itemRow"></h2>
