@@ -633,5 +633,93 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/1472834682/?coliid=I3IMBVHXU3QL1M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
+   },
+   {
+      "id": "30824049-7059-4199-bde3-99a1b4819516",
+      "title": "Firefight: Assault on Exham 2-Player Set",
+      "description": "A two-player starter set for Mantic Games' Firefight tabletop wargame with more than 55 Veer-Myn and Forge Father miniatures, vehicles, rules, force lists, dice, tokens, and a quick-start guide.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "SCI-FI"
+      ],
+      "images": [
+         "01-Army.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CD2MXC5P/?coliid=I30TTQ4PQ63TM4&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "267701be-b8b5-41f6-a723-6adfc8f7b1db",
+      "title": "The Complete Far Side: 1980-1994",
+      "description": "A complete collection of Gary Larson's The Far Side comics from 1980 through 1994.",
+      "reason": "",
+      "tags": [
+         "READING",
+         "COMICS",
+         "HUMOR"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/0740721135/?coliid=I3OLFQHWXXTK5V&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "a37ad13a-b02b-4852-ad82-725d8c58a216",
+      "title": "City of the Great Machine",
+      "description": "An asymmetric steampunk strategy board game for one to four players with competitive, cooperative, and solo modes, hidden movement, variable powers, and detailed miniatures.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "STEAMPUNK"
+      ],
+      "images": [
+         "01-Cover.jpg",
+         "02-Game.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BP2C94L6/?coliid=I3T8CLQXUI870Y&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "9f617a4d-27a7-4d2c-b5f5-4b86fce2a04c",
+      "title": "Star Trek: The Next Generation Whiskey Decanter Set",
+      "description": "A five-piece USS Enterprise-themed barware set with a 26-ounce decanter, stopper, and four 10-ounce glasses decorated with Star Trek insignia.",
+      "reason": "",
+      "tags": [
+         "DRINKWARE",
+         "HOME",
+         "STAR TREK"
+      ],
+      "images": [
+         "01-Glasses.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B08PFJFSH2/?coliid=I1FURWMZUV8YAB&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "bfd4fbaa-6084-4191-bb9d-0b80e7d92dd9",
+      "title": "BattleTech: Clan Command Star",
+      "description": "A BattleTech force pack containing five newly sculpted, fully assembled miniatures representing distinct playable units.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "BATTLETECH"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B086RVK2KZ/?coliid=I1RWIUK5YKIB9M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
    }
 ]
