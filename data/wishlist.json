@@ -811,5 +811,95 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B09G36TXTW/?coliid=I14T5SQNG1AP8H&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
+   },
+   {
+      "id": "a580170c-19f4-4111-b229-ea340803851f",
+      "title": "Firefight 2-Player Set: Marauders vs. Enforcers",
+      "description": "A two-player science-fiction tabletop wargame set from Mantic Games featuring Marauder and Enforcer forces.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "SCI-FI"
+      ],
+      "images": [
+         "01-Army.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B09VWJNN21/?coliid=I3SAM51AW3TX93&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "82815129-0063-4d4c-a5cc-addac0ce5c04",
+      "title": "Warhammer 40,000: Space Marines Venerable Dreadnought",
+      "description": "A multipart plastic Venerable Dreadnought model for a Warhammer 40,000 Space Marines army, representing a veteran hero encased in a heavily armed war machine.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B08KWMHRLV/?coliid=I11ELHJYL5JI4V&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "624c44e2-bf1a-461a-9b56-44dc2cacfe81",
+      "title": "Warhammer 40,000: Grey Knights Paladin Squad",
+      "description": "A multipart plastic Grey Knights Paladin Squad kit with 153 components and five 40mm bases. The miniatures require assembly and painting.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0785T16QP/?coliid=IIXSU55RX07OI&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "7a2aea98-18bf-419c-86c1-e1b8c56a63db",
+      "title": "Legendary: Paint the Town Red Expansion",
+      "description": "A 100-card expansion for Legendary: A Marvel Deck Building Game featuring five heroes, two villain groups, two masterminds, four schemes, Black Suit Spider-Man, and Carnage. The core set is required.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME",
+         "MARVEL"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B00IWX9Y9U/?coliid=ITOFFAMRQM3HY&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "e526c98c-1df0-4e29-9256-f313f1daa9c0",
+      "title": "Legendary: Venom Expansion",
+      "description": "An expansion for Legendary: A Marvel Deck Building Game featuring the Venomverse team, five heroes, two villain groups, two masterminds, and four schemes. The core set is required.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME",
+         "MARVEL"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07JNG4C1Q/?coliid=I2X8SYOBG186QV&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
    }
 ]
