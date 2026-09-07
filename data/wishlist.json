@@ -721,5 +721,95 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B086RVK2KZ/?coliid=I1RWIUK5YKIB9M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
+   },
+   {
+      "id": "66b9f642-4e1f-4778-ba78-869e2c890685",
+      "title": "Warhammer 40,000: Leagues of Votann - Uthar the Destined",
+      "description": "A Leagues of Votann character miniature that builds Uthar the Destined or a Kâhl with a selection of weapons. The model requires assembly and painting.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BK9KZWZB/?coliid=I2C7UNFZVXHB07&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "e1208785-0249-483b-be21-b2c3f3eb0261",
+      "title": "Warhammer 40,000: Leagues of Votann - Brôkhyr Iron-Master",
+      "description": "A Leagues of Votann engineering HQ set with a Brôkhyr Iron-Master, an Ironkin Assistant, and three E-COGs. The miniatures require assembly and painting.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BK9MRJP3/?coliid=IVUOZ7DZ2JXJ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "d3145703-dbc7-47b8-ace0-00dd7811ab6e",
+      "title": "Warhammer 40,000: Leagues of Votann - Grimnyr",
+      "description": "A psychic Leagues of Votann HQ miniature accompanied by two CORVs for fire support and protection against psychic overload. Assembly and painting are required.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BK9D8C6P/?coliid=I25783AALJQO5M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "a75ddb98-71f8-4057-9eb4-7e4b7020bd13",
+      "title": "Warhammer 40,000: Leagues of Votann - Brôkhyr Thunderkyn",
+      "description": "A set of three Brôkhyr Thunderkyn heavy-support miniatures with a choice of advanced weapons. The models require assembly and painting.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BK9JF6SM/?coliid=I2MX2FDTJE2IC0&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "8432af94-2018-4aef-8ed0-f7edb5582532",
+      "title": "Deadzone: Forge Father Hold Warriors Starter",
+      "description": "A Forge Father Hold Warriors starter set for Mantic Games' science-fiction Deadzone tabletop skirmish game.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "SCI-FI"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B09G36TXTW/?coliid=I14T5SQNG1AP8H&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
    }
 ]
