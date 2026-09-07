@@ -7,6 +7,8 @@ function load() {
       items: [],
       searchText: "",
       costFilter: "",
+      priorityFilter: "",
+      screenSize: window.matchMedia("(min-width: 768px)"),
       /**
        * Reloads the wishlist while preserving the currently rendered items if
        * the data source is unavailable.
@@ -77,11 +79,15 @@ function load() {
          if (this.costFilter !== "") {
             items = items.filter(item => item.cost === this.costFilter)
          }
+         if (this.priorityFilter !== "") {
+            items = items.filter(item => item.priority === this.priorityFilter)
+         }
          this.items = items
       },
       clear() {
          this.searchText = ""
          this.costFilter = ""
+         this.priorityFilter = ""
          this.search()
       },
       /** Performs the component's initial wishlist load. */
@@ -89,6 +95,9 @@ function load() {
          this.items = wishlistReader.wishlist
          window.addEventListener("wishlist:list-loaded", event => {
             this.items = wishlistReader.wishlist
+         })
+         window.addEventListener("resize", event => {
+            this.screenSize = window.matchMedia("(min-width: 768px)")
          })
       }
    }))
