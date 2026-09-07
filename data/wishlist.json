@@ -189,5 +189,147 @@
       "priority": "HIGH",
       "url": "https://www.amazon.com/dp/B09K1XCSPY/?coliid=I3RZC1CE3WVZDF&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$"
+   },
+   {
+      "id": "9f11202a-9d66-476f-bdcb-58c90750f9d3",
+      "title": "Dungeons & Lasers Stagecoach",
+      "description": "Stand Out in Your Village with a Stylish Stagecoach: no RPG campaign is complete without a way to move your gear and supplies, so add this detailed horse and cart mini to your dnd accessories today.",
+      "reason": "",
+      "tags": [
+         "MINATURE",
+         "ROLEPLAYING",
+         "HOBBY"
+      ],
+      "images": [
+         "02-Product.jpg",
+         "01-Stagecoach.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CJC21JSV/?coliid=I256OM1W2H5KQJ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "14c85ca0-ae2a-4b62-8166-17024bb56d1b",
+      "title": "Dungeons & Lasers NPC DND Miniatures Pack",
+      "description": "Essential NPC Characters for Your D&D and Roleplaying Adventures: with 68 miniatures this bulk set is ready for every RPG and tabletop game; add to your d&d miniatures collection today.",
+      "reason": "",
+      "tags": [
+         "MINATURE",
+         "ROLEPLAYING",
+         "HOBBY"
+      ],
+      "images": [
+         "01-AllMinature.jpg",
+         "02-Cover.jpg",
+         "03-Group.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CKX8DB3V/?coliid=I3A8I5V5URZAUR&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$"
+   },
+   {
+      "id": "1df8d514-8a05-4635-acb3-b15448ee7847",
+      "title": "Dungeons & Lasers Townsfolk DND Miniatures Set",
+      "description": "The Foundation of any Town: our bulk set of 62 NPC miniatures are an essential addition to your tabletop dnd terrain and fantasy gaming character collection and come with scenic bases - ready and easy-to-paint.",
+      "reason": "",
+      "tags": [
+         "MINATURE",
+         "ROLEPLAYING",
+         "HOBBY"
+      ],
+      "images": [
+         "01-Group.jpg",
+         "02-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BDPN9LPD/?coliid=I1FA0XFCRP4XNY&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$"
+   },
+   {
+      "id": "6037d120-c3ab-4ddf-9232-75db5d745015",
+      "title": "Buck Knives General Hunting Knife",
+      "description": "High-Quality Sharp Blade: The 7-3/8\" HC stainless steel clip blade is put through a rigorous heat treat process and performance test to ensure excellent strength, edge retention, and corrosion resistance.",
+      "reason": "",
+      "tags": [
+         "KNIFE",
+         "CAMPING",
+         "UTILITY"
+      ],
+      "images": [
+         "01-Knife.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B00HTWJJ9U/?coliid=IRXT0PPQ7RUM9&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "ceb4aba9-cbca-485a-bc06-2ac9fc59d2a6",
+      "title": "LEGO Super Mario Game Boy",
+      "description": "Build the ultimate retro gaming display with the LEGO Game Boy (72046) model kit for adults ages 18 and up.",
+      "reason": "",
+      "tags": [
+         "LEGO",
+         "BUILDING",
+         "CONSOLE"
+      ],
+      "images": [
+         "01-Lego.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0DX3J6MT7/?coliid=I2A23JTNVFPWAK&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "13ca9007-3f82-4a49-b469-c58c81d27a57",
+      "title": "The Army Painter Speedpaint 2.0 Complete Set Combo",
+      "description": "With Our New Formula the Goal Was To Make the First True One-Coat Miniature Paint Set for a Wide Range of Army Figures. To Meet That Goal, the Plastic Acrylic Paint Needed To Offer Superior Coverage, Vibrant Saturation, and a Smooth Stainless Finish. Utilizing an Advanced Resin, We Have Been Able To Achieve the Superior Characteristics of Speedpaint.",
+      "reason": "",
+      "tags": [
+         "MINATURE",
+         "PAINT",
+         "HOBBY"
+      ],
+      "images": [
+         "01-Cover.jpg",
+         "02-Colors.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0BWRT2M12/?coliid=I2OWGHZJP3FGRR&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "17d297ca-f590-40b1-90d5-eb57308596bb",
+      "title": "Rechargeable Work Light with Stand",
+      "description": "Triple Lamp Heads - Featuring by triple LED lamp heads, it assures a better coverage of illumination. With adjustability of vertically 180°and horizontally 270°rotation, our GoGonova work light with stand is ideal for indoor flexibility and outdoor portability.",
+      "reason": "",
+      "tags": [
+         "CAMPING",
+         "LIGHTS",
+         "UTILITY"
+      ],
+      "images": [
+         "01-Light.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0CDB28DJV/?coliid=I24G8IPV89R9X7&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$$$"
+   },
+   {
+      "id": "28557288-aa85-41aa-93b5-c7ee32207475",
+      "title": "Star Wars Shatterpoint: Requesting Your Surrender Squad Pack",
+      "description": "Expand a Star Wars Shatterpoint strike team with Kit Fisto, Nahdar Vebb, Clone Commander Fil, and Fil's clone squad. The pack includes five miniatures, bases, character stat cards, order cards, and a rulesheet.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "STAR WARS"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0DNF3RKSR/?coliid=I148DESF0B7R4G&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
    }
 ]
