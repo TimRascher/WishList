@@ -547,5 +547,91 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0CK52V2X3/?coliid=I1VWPXU55J6FSB&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$$$"
+   },
+   {
+      "id": "1698b418-851f-4f67-959e-e9f5d74ba478",
+      "title": "Dungeon Craft: Hell & Highwater",
+      "description": "A collection of 880 reversible, water-resistant RPG map pieces for creating naval and infernal encounters, including boats, docks, islands, hazards, lava, siege engines, and monsters.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "ROLEPLAYING",
+         "TERRAIN"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/1733376615/?coliid=ITGULR3LZRED4&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$"
+   },
+   {
+      "id": "32d38d83-4522-4f5d-8af9-d22f2a6ed0db",
+      "title": "Eclipse: Second Dawn for the Galaxy",
+      "description": "A strategy board game for two to six players about exploring star systems, researching technology, building fleets, and leading an interstellar civilization to victory.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "SPACE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B08DPV8BPJ/?coliid=I3IHU6HMUD3J3F&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "67690cb5-6e45-49d3-b346-7bf23c54d580",
+      "title": "Stargrave: Crew II - Females",
+      "description": "A set of female science-fiction crew miniatures for Stargrave. The plastic models require assembly and painting.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "HOBBY"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0B3V19HPW/?coliid=IFEG2DMZKI7R7&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "f1da5e87-5aa3-4aab-be44-fae785641f4e",
+      "title": "Frostgrave: Ghost Archipelago",
+      "description": "A fantasy tabletop wargame set across the Lost Isles, where rival crews explore dangerous ruins in search of treasure, secrets, and adventure.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "READING"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/1472817346/?coliid=I2WJK3AQX31B1L&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "872a8d5d-0dbb-41e2-b912-b9b91b8b0e58",
+      "title": "Frostgrave: Second Edition",
+      "description": "The second edition of the fantasy tabletop wargame set in the Frozen City, where wizards and their warbands compete for ancient treasures.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "READING"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/1472834682/?coliid=I3IMBVHXU3QL1M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
    }
 ]
