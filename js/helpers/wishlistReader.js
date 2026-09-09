@@ -1,7 +1,8 @@
 
 /** @typedef {import("../../types/wishlist").Wishlist} Wishlist*/
 /**
- * Sorts the wishlist by priority (high to low), then by title (A to Z).
+ * Sorts top-level items by priority and title, with children sorted by title
+ * directly beneath their parent.
  *
  * @param {Wishlist} wishlist 
  * @returns {Wishlist}
@@ -12,18 +13,52 @@ function sort(wishlist) {
    const normalizedTitle = (/** @type {string} */ title) =>
       title.replace(/^(?:a|the)\s+/i, '')
 
+   /** @param {Wishlist[number]} a @param {Wishlist[number]} b */
+   const compareTitles = (a, b) =>
+      normalizedTitle(a.title).localeCompare(normalizedTitle(b.title), undefined, {
+         sensitivity: 'base',
+      })
+
    wishlist.forEach(({ tags }) => {
       tags.sort((a, b) =>
          a.localeCompare(b, undefined, { sensitivity: 'base' })
       )
    })
 
-   return wishlist.sort((a, b) =>
-      priorities[a.priority] - priorities[b.priority] ||
-      normalizedTitle(a.title).localeCompare(normalizedTitle(b.title), undefined, {
-         sensitivity: 'base',
-      })
+   /** @type {Map<string, Wishlist>} */
+   const children = new Map()
+   const parents = wishlist.filter(item => !item.parentItemId)
+   for (const item of wishlist) {
+      if (!item.parentItemId) { continue }
+      const group = children.get(item.parentItemId) || []
+      group.push(item)
+      children.set(item.parentItemId, group)
+   }
+   parents.sort((a, b) =>
+      priorities[a.priority] - priorities[b.priority] || compareTitles(a, b)
    )
+   for (const group of children.values()) {
+      group.sort(compareTitles)
+   }
+
+   /** @type {Wishlist} */
+   const sorted = []
+   const visited = new Set()
+   /** @param {Wishlist[number]} item */
+   function append(item) {
+      if (visited.has(item)) { return }
+      visited.add(item)
+      sorted.push(item)
+      for (const child of children.get(item.id) || []) {
+         append(child)
+      }
+   }
+   parents.forEach(append)
+   // Keep items with missing or circular parent references visible as well.
+   for (const group of children.values()) {
+      group.forEach(append)
+   }
+   return sorted
 }
 
 /** Loads and retains the wishlist data shared by the Alpine components. */

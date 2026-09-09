@@ -8,7 +8,8 @@ export interface WishlistItem {
    images: Image[]
    priority: WishlistPriority
    url: string,
-   cost: Cost
+   cost: Cost,
+   parentItemId?: string
 }
 
 /** The complete ordered collection of wishlist entries. */

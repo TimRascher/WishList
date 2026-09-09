@@ -472,7 +472,8 @@
       ],
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B0CT61P3H5/?coliid=I14XX3DPD1M8WZ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
-      "cost": "$$$"
+      "cost": "$$$",
+      "parentItemId": "e90567e2-354b-4ec5-a0e5-adea06a41b17"
    },
    {
       "id": "e90567e2-354b-4ec5-a0e5-adea06a41b17",
