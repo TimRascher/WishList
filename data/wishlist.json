@@ -901,5 +901,92 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B07JNG4C1Q/?coliid=I2X8SYOBG186QV&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
+   },
+   {
+      "id": "bd34aa21-e065-49ed-96d1-93c14e4d3b63",
+      "title": "Mantic Battle Tank",
+      "description": "A plastic battle-tank miniature for use in a science-fiction tabletop wargame.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "SCI-FI"
+      ],
+      "images": [
+         "01-Tank.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07576MJD3/?coliid=IZCE02GZ10AHI&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$"
+   },
+   {
+      "id": "883d3b6f-6ae1-4b61-b46b-cb354ddf2c71",
+      "title": "Black Seas: Master & Commander Starter Set",
+      "description": "An Age of Sail miniature wargame starter set with nine plastic ships, core rules, sails, rigging, flags, ship cards, markers, and tokens for naval battles.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "NAVAL"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07YZNQRHV/?coliid=I34Q4MGX1AEHRK&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$"
+   },
+   {
+      "id": "cba43288-4295-4146-9018-a9386b9d1b77",
+      "title": "The Art of John Harris: Beyond the Horizon",
+      "description": "A collection showcasing the imaginative science-fiction artwork of John Harris.",
+      "reason": "",
+      "tags": [
+         "READING",
+         "ART",
+         "SCI-FI"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/1781168423/?coliid=IM53AQM4YWX5O&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "e76777bc-cf6d-41d7-bd36-84d6f4b7e0c6",
+      "title": "Clank! Legacy: Acquisitions Incorporated - C Team",
+      "description": "A character expansion featuring Donaar Blit'zen, Rosie Beestinger, Walnut Dankgrass, and K'thriss Drow'b, each with a miniature, character board, and unique starting deck.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07VMGQ7C9/?coliid=I3G5JUDP0X7O24&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "f54ebe02-d54f-4952-a6cc-63435a649a65",
+      "title": "Clank! Expeditions: Gold and Silk",
+      "description": "A Clank! expansion with two new adventures: exploring an abandoned mine and confronting the Spider Queen.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07DF3ZR84/?coliid=I30OGJBBXHFS2E&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
    }
 ]
