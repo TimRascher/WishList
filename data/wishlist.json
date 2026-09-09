@@ -988,5 +988,110 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B07DF3ZR84/?coliid=I30OGJBBXHFS2E&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
+   },
+   {
+      "id": "2e6a58f7-944e-42be-96bf-20af6de23bcd",
+      "title": "Clank! Legacy: Acquisitions Incorporated - Upper Management Pack",
+      "description": "An expansion pack for Clank! Legacy: Acquisitions Incorporated featuring additional upper-management characters and content.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07MVZF4W9/?coliid=I3ITD36KX6VZZD&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "c4792f3b-f055-44b5-8815-1f7fa1c169ef",
+      "title": "Clank! In! Space! Cyber Station 11",
+      "description": "A Clank! In! Space! expansion with a new game board, persistent cyberware abilities, and Commander Preon's executive escape pods for two to four players.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "CARDGAME",
+         "SPACE"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07W5JD3MN/?coliid=I1G9JJGE8OHJ4C&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$"
+   },
+   {
+      "id": "a81c3cfd-3d51-4f1f-a298-0c9dc1adcd0f",
+      "title": "Sunnydaze Cosmic 42-inch Fire Pit",
+      "description": "A large wood-burning outdoor fire pit with a 34-inch bowl, star-and-moon cutouts, safety ring, spark screen, wood grate, poker, and protective cover.",
+      "reason": "",
+      "tags": [
+         "OUTDOORS",
+         "CAMPING",
+         "HOME"
+      ],
+      "images": [
+         "01-Firepit.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B00AZNK9D0/?coliid=I3ALO65JXUFDFK&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "f47ddeb2-9fed-4afb-93fc-8f1a4f8dd4ba",
+      "title": "Warhammer Age of Sigmar: Kharadron Overlords Arkanaut Frigate",
+      "description": "A multipart plastic Arkanaut Frigate model for a Kharadron Overlords army. The miniature requires assembly and painting.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B071NB9WKK/?coliid=I3FIZ9DQZ0FHX4&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$"
+   },
+   {
+      "id": "649953bf-74cf-4c8d-9b46-f5f448810375",
+      "title": "Warhammer Age of Sigmar: Kharadron Overlords Arkanaut Ironclad",
+      "description": "A 152-component multipart plastic Arkanaut Ironclad model for a Kharadron Overlords army.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "WARGAME",
+         "MINATURE",
+         "WARHAMMER"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B0716LYWXG/?coliid=I28KRAXUCRRG47&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
+      "cost": "$$$$$"
+   },
+   {
+      "id": "13868d8d-692d-4c0c-838e-656454e9d22a",
+      "title": "ENHANCE Board Game Backpack",
+      "description": "A semi-rigid board-game backpack with padded straps, a carrying handle, exterior accessory pockets, an interior support strap, and capacity for up to 60 pounds of games.",
+      "reason": "",
+      "tags": [
+         "GAME",
+         "BOARDGAME",
+         "STORAGE"
+      ],
+      "images": [
+         "01-Backpack.jpg"
+      ],
+      "priority": "MEDIUM",
+      "url": "https://www.amazon.com/dp/B07W7LFCRV/?coliid=I2B1ZWW5TQGVSA&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
+      "cost": "$$$$$"
    }
 ]
