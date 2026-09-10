@@ -1094,5 +1094,22 @@
       "priority": "MEDIUM",
       "url": "https://www.amazon.com/dp/B07W7LFCRV/?coliid=I2B1ZWW5TQGVSA&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
       "cost": "$$$$$"
+   },
+   {
+      "id": "db3d2a6e-160d-44a3-92e1-1ce606335765",
+      "title": "Shadowdark RPG",
+      "description": "Shadowdark RPG is fast, familiar, intuitive, and deadly. It's built for sword-and-sorcery adventures where fell monsters slither in darkness and ancient gems glint upon forgotten thrones, waiting to be discovered.",
+      "reason": "This game looks great, one of the few I haven't got the PDF for even.",
+      "tags": [
+         "GAME",
+         "ROLEPLAYING",
+         "READING"
+      ],
+      "images": [
+         "01-Cover.jpg"
+      ],
+      "priority": "HIGH",
+      "url": "https://www.thearcanelibrary.com/pages/shadowdark",
+      "cost": "$$$"
    }
 ]
