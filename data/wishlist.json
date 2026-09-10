@@ -22,7 +22,7 @@
       "id": "58f44877-68c5-43a0-ab93-a954e20cf2e6",
       "title": "The Ghost in the Shell Legacy Edition Manga Box Set",
       "description": "The definitive Ghost in the Shell manga collection restores previously edited material across three deluxe hardcovers, presented in authentic right-to-left format. This premium box set also includes exclusive Shirow Masamune artwork, 11 posters, and collectible Fuchikoma stickers.",
-      "reason": "",
+      "reason": "This would be neat to have, I really like Ghost in the Shell movies and shows.",
       "tags": [
          "MANGA",
          "READING",
@@ -56,7 +56,7 @@
       "id": "46ca5a72-109b-4258-91e9-f218a1b9e9ca",
       "title": "Jurassic Park Lamp",
       "description": "A Jurassic Park-themed decorative lamp for adding an illuminated franchise display to a bedroom, office, or game room.",
-      "reason": "",
+      "reason": "I mean, look at this thing. It's awesome.",
       "tags": [
          "HOME",
          "DECOR",
@@ -74,7 +74,7 @@
       "id": "45679019-f61e-41c4-b24d-4405c96c591d",
       "title": "LEGO Jurassic World Dinosaur Fossils: T. Rex Skull",
       "description": "A buildable LEGO T. rex skull fossil display for ages 9 and up, set 76964.",
-      "reason": "",
+      "reason": "This is my favorite dinosaur.",
       "tags": [
          "LEGO",
          "BUILDING",
@@ -91,7 +91,7 @@
       "id": "3b3113ac-8042-40fb-a38a-127365b90707",
       "title": "LEGO City Interstellar Spaceship",
       "description": "A LEGO City space building set with an interstellar spacecraft, drone, and astronaut figure, set 60430.",
-      "reason": "",
+      "reason": "I love Lego spaceships, and this is a nice little cheap one.",
       "tags": [
          "LEGO",
          "BUILDING",
@@ -100,7 +100,7 @@
       "images": [
          "01-Legos.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/B0CGY4H58S/?coliid=I35698P4SE9ILS&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_vv_lig_dp_it",
       "cost": "$"
    },
@@ -108,7 +108,7 @@
       "id": "9fbe9665-068c-474a-8bd4-013af5a2e9df",
       "title": "LEGO Star Wars: The Mandalorian and Grogu Razor Crest",
       "description": "A build-and-display LEGO Star Wars model of the Razor Crest from The Mandalorian and Grogu, set 75447.",
-      "reason": "",
+      "reason": "I think the Mandalorian is pretty great, and I love Lego spaceships.",
       "tags": [
          "LEGO",
          "BUILDING",
@@ -125,7 +125,7 @@
       "id": "e41bd688-dfba-4335-ba68-85cd5b7553ee",
       "title": "LEGO Creator 3-in-1 Space Roller Coaster",
       "description": "A LEGO Creator amusement-park set that rebuilds into a space roller coaster, drop tower, or carousel and includes five minifigures, set 31142.",
-      "reason": "",
+      "reason": "A neat little roller coaster, I bet Aurora would enjoy this with me.",
       "tags": [
          "LEGO",
          "BUILDING",
@@ -142,7 +142,7 @@
       "id": "8841da41-e0fd-4204-b4db-9d8d1c3bcb75",
       "title": "Igloo Pokémon Squirtle 16 oz Stainless Steel Can Tumbler",
       "description": "A blue 16-ounce Squirtle-themed insulated stainless steel can tumbler from Igloo.",
-      "reason": "",
+      "reason": "Squirtle Squirtle Squirtle.",
       "tags": [
          "DRINKWARE",
          "POKÉMON",
@@ -159,7 +159,7 @@
       "id": "a4a84ad0-66dd-4203-b8f3-7b9c4c7b0062",
       "title": "Sandmasons Master Kit",
       "description": "A durable sandcastle construction set with interlocking forms and tools for building with sand or snow.",
-      "reason": "",
+      "reason": "Something cool to use at the beach with Aurora.",
       "tags": [
          "OUTDOORS",
          "BUILDING",
@@ -177,7 +177,7 @@
       "id": "db3fd0db-22d5-4bc2-8ee0-eef95bfb607d",
       "title": "Weekend Warriors: The Ultimate Tabletop Skirmish Game",
       "description": "Weekend Warriors is the ultimate tabletop skirmish game to play with your kids! It's a fast-paced, action-packed tabletop skirmish game that is fun to prepare and play together.",
-      "reason": "",
+      "reason": "This is a game I want to play with Aurora when she's older. She has all of these Little People figures, and this would be a fun game to play with those.",
       "tags": [
          "GAME",
          "WARGAME",
@@ -194,9 +194,9 @@
       "id": "9f11202a-9d66-476f-bdcb-58c90750f9d3",
       "title": "Dungeons & Lasers Stagecoach",
       "description": "Stand Out in Your Village with a Stylish Stagecoach: no RPG campaign is complete without a way to move your gear and supplies, so add this detailed horse and cart mini to your dnd accessories today.",
-      "reason": "",
+      "reason": "This looks like it would be fun to build and paint.",
       "tags": [
-         "MINATURE",
+         "MINIATURE",
          "ROLEPLAYING",
          "HOBBY"
       ],
@@ -212,9 +212,9 @@
       "id": "14c85ca0-ae2a-4b62-8166-17024bb56d1b",
       "title": "Dungeons & Lasers NPC DND Miniatures Pack",
       "description": "Essential NPC Characters for Your D&D and Roleplaying Adventures: with 68 miniatures this bulk set is ready for every RPG and tabletop game; add to your d&d miniatures collection today.",
-      "reason": "",
+      "reason": "I can always use more generic miniatures, and this one would be cool for players to choose from.",
       "tags": [
-         "MINATURE",
+         "MINIATURE",
          "ROLEPLAYING",
          "HOBBY"
       ],
@@ -231,9 +231,9 @@
       "id": "1df8d514-8a05-4635-acb3-b15448ee7847",
       "title": "Dungeons & Lasers Townsfolk DND Miniatures Set",
       "description": "The Foundation of any Town: our bulk set of 62 NPC miniatures are an essential addition to your tabletop dnd terrain and fantasy gaming character collection and come with scenic bases - ready and easy-to-paint.",
-      "reason": "",
+      "reason": "A bunch of NPCs for the players to someday murder, sign me up.",
       "tags": [
-         "MINATURE",
+         "MINIATURE",
          "ROLEPLAYING",
          "HOBBY"
       ],
@@ -249,7 +249,7 @@
       "id": "6037d120-c3ab-4ddf-9232-75db5d745015",
       "title": "Buck Knives General Hunting Knife",
       "description": "High-Quality Sharp Blade: The 7-3/8\" HC stainless steel clip blade is put through a rigorous heat treat process and performance test to ensure excellent strength, edge retention, and corrosion resistance.",
-      "reason": "",
+      "reason": "A nice camping knife. It's always good to have a good knife while camping.",
       "tags": [
          "KNIFE",
          "CAMPING",
@@ -266,7 +266,7 @@
       "id": "ceb4aba9-cbca-485a-bc06-2ac9fc59d2a6",
       "title": "LEGO Super Mario Game Boy",
       "description": "Build the ultimate retro gaming display with the LEGO Game Boy (72046) model kit for adults ages 18 and up.",
-      "reason": "",
+      "reason": "The nostalgia is strong with this one.",
       "tags": [
          "LEGO",
          "BUILDING",
@@ -283,9 +283,9 @@
       "id": "13ca9007-3f82-4a49-b469-c58c81d27a57",
       "title": "The Army Painter Speedpaint 2.0 Complete Set Combo",
       "description": "With Our New Formula the Goal Was To Make the First True One-Coat Miniature Paint Set for a Wide Range of Army Figures. To Meet That Goal, the Plastic Acrylic Paint Needed To Offer Superior Coverage, Vibrant Saturation, and a Smooth Stainless Finish. Utilizing an Advanced Resin, We Have Been Able To Achieve the Superior Characteristics of Speedpaint.",
-      "reason": "",
+      "reason": "I have a lot of these paints already, but who can't use more? Also it has colors I don't have!",
       "tags": [
-         "MINATURE",
+         "MINIATURE",
          "PAINT",
          "HOBBY"
       ],
@@ -301,7 +301,7 @@
       "id": "17d297ca-f590-40b1-90d5-eb57308596bb",
       "title": "Rechargeable Work Light with Stand",
       "description": "Triple Lamp Heads - Featuring by triple LED lamp heads, it assures a better coverage of illumination. With adjustability of vertically 180°and horizontally 270°rotation, our GoGonova work light with stand is ideal for indoor flexibility and outdoor portability.",
-      "reason": "",
+      "reason": "I remember when camping as a kid, we'd always have a lantern on a pole hooked to a propane tank. This is like that but less hot, and gassy.",
       "tags": [
          "CAMPING",
          "LIGHTS",
@@ -318,17 +318,17 @@
       "id": "28557288-aa85-41aa-93b5-c7ee32207475",
       "title": "Star Wars Shatterpoint: Requesting Your Surrender Squad Pack",
       "description": "Expand a Star Wars Shatterpoint strike team with Kit Fisto, Nahdar Vebb, Clone Commander Fil, and Fil's clone squad. The pack includes five miniatures, bases, character stat cards, order cards, and a rulesheet.",
-      "reason": "",
+      "reason": "Hell yeah, Kit Fisto! Love him!",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "STAR WARS"
       ],
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B0DNF3RKSR/?coliid=I148DESF0B7R4G&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$"
    },
@@ -336,7 +336,7 @@
       "id": "3e18b855-1347-4d3f-b183-63f4d9eb90b3",
       "title": "Arcs",
       "description": "A tactical space-opera board game for two to four players featuring a trick-taking-inspired action system, galactic warfare, resource control, diplomacy, and shifting scoring ambitions.",
-      "reason": "",
+      "reason": "This game looks like a lot of fun, and I love trick taking games. It is pretty commonly in the Board Game Geeks top 50.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -353,7 +353,7 @@
       "id": "c12b0225-6765-4c2e-9677-028f71227d91",
       "title": "Epic Spell Wars of the Battle Wizards: ANNIHILAGEDDON 3 - Satanic Panic",
       "description": "The third standalone ANNIHILAGEDDON deck-building game adds Satan as a playable role, ten oversized wizards, familiars, spellbooks, Satanic Mayhems, and new Dead Wizard tokens.",
-      "reason": "",
+      "reason": "I have the first two. Mom if you are reading this, probably don't get this for me, we'll never be able to play it together.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -370,11 +370,11 @@
       "id": "c90704f7-7648-4ad6-9388-25eb647f06cb",
       "title": "Cyberpunk RED: Combat Zone - Lawmen Starter Gang",
       "description": "A Lawmen starter gang expansion for the Cyberpunk RED: Combat Zone tabletop skirmish game, adding new characters and tactical options for battles in Night City.",
-      "reason": "",
+      "reason": "I AM THE LAW!",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "CYBERPUNK"
       ],
       "images": [
@@ -388,11 +388,11 @@
       "id": "6de2d197-21be-47bf-91e5-143696e15db8",
       "title": "Cyberpunk RED: Combat Zone - Edgerunners 2 Starter Gang",
       "description": "An Edgerunners starter gang for the Cyberpunk RED: Combat Zone tabletop skirmish game, providing new characters and crew-building options for objective-based battles.",
-      "reason": "",
+      "reason": "I have a pretty good collection of these guys now almost by accident. Might as well keep added to it.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "CYBERPUNK"
       ],
       "images": [
@@ -406,11 +406,11 @@
       "id": "c226ecd6-7908-4efd-9093-600d65d1ff79",
       "title": "Cyberpunk RED: Combat Zone - Edgerunners 1 Starter Gang",
       "description": "An Edgerunners starter gang for the Cyberpunk RED: Combat Zone tabletop skirmish game, expanding the available characters, crews, and tactical combinations.",
-      "reason": "",
+      "reason": "I have a pretty good collection of these guys now almost by accident. Might as well keep added to it.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "CYBERPUNK"
       ],
       "images": [
@@ -424,11 +424,11 @@
       "id": "3247fa19-3992-4277-9cc3-a8dabeb74282",
       "title": "Arcknight Flat Plastic Miniatures: Spacefarers",
       "description": "A set of 56 unique double-sided, full-color science-fiction miniatures made from flexible transparent plastic. They pack flat and work with Starfinder, Shadowrun, and other tabletop roleplaying games.",
-      "reason": "",
+      "reason": "These packs of lots of guys are great, useful for lots of different games.",
       "tags": [
          "GAME",
          "ROLEPLAYING",
-         "MINATURE",
+         "MINIATURE",
          "SCI-FI"
       ],
       "images": [
@@ -442,7 +442,7 @@
       "id": "449df3ff-1b1b-4180-bf6b-f0c86838dc76",
       "title": "Super Mario Bros. Wonder",
       "description": "A side-scrolling Super Mario adventure for Nintendo Switch featuring Wonder Flowers, a large playable cast, new power-ups, and local multiplayer.",
-      "reason": "",
+      "reason": "Jacqueline and I love to play games like this together. And I hope to get Aurora onboard too.",
       "tags": [
          "GAME",
          "VIDEOGAME",
@@ -461,7 +461,7 @@
       "id": "f517062e-e7ef-4eb1-b59e-ed228106fb75",
       "title": "Dune: The Spacing Guild Expansion",
       "description": "An expansion for Dune: War for Arrakis that adds the Space Board, The Spacing Guild, CHOAM, The Landsraad, reinforcements, detailed figures, and new asymmetric strategic options.",
-      "reason": "",
+      "reason": "This is an expansion to a game I don't have, but hope to get!",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -470,7 +470,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/B0CT61P3H5/?coliid=I14XX3DPD1M8WZ&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$",
       "parentItemId": "e90567e2-354b-4ec5-a0e5-adea06a41b17"
@@ -479,7 +479,7 @@
       "id": "e90567e2-354b-4ec5-a0e5-adea06a41b17",
       "title": "Dune: War for Arrakis",
       "description": "An asymmetric strategy board game in which House Atreides and House Harkonnen battle for control of Arrakis and its spice using detailed plastic figures and distinct tactics.",
-      "reason": "",
+      "reason": "This board game looks like a lot of fun, and it's pretty constantly in Board Game Geeks top 50.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -489,7 +489,7 @@
          "01-Cover.jpg",
          "02-Board.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/B0CT61GDM3/?coliid=IRTZIGE4F5OUC&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$$$"
    },
@@ -497,11 +497,11 @@
       "id": "e01ad1a2-95bf-4223-b162-811af1b8f145",
       "title": "Conquest: W'adrhun - Apex Predator",
       "description": "A large W'adrhun monster miniature for Conquest featuring an alternate head and a plastic rider figure, with assembly instructions included.",
-      "reason": "",
+      "reason": "This is one of the most expensive and cool models for this army. I'm slowly collecting them, but no plans to play soon. Still, look at how cool this guy is.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "HOBBY"
       ],
       "images": [
@@ -515,11 +515,11 @@
       "id": "9579fc53-5fe2-49fd-b123-bced755b4473",
       "title": "Conquest: W'adrhun - Tontorr",
       "description": "A huge 38mm-scale plastic monster miniature for the W'adrhun army, supplied with three crew miniatures and a command card. Assembly is required.",
-      "reason": "",
+      "reason": "This is one of the most expensive and cool models for this army. I'm slowly collecting them, but no plans to play soon. Still, look at how cool this guy is.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "HOBBY"
       ],
       "images": [
@@ -534,11 +534,11 @@
       "id": "054f85f8-6c87-4404-8568-51e8414fc95d",
       "title": "Conquest: W'adrhun - Drum Beast",
       "description": "A huge plastic monster miniature for the W'adrhun army, supplied with three crew miniatures and a command card. Assembly is required.",
-      "reason": "",
+      "reason": "This is one of the most expensive and cool models for this army. I'm slowly collecting them, but no plans to play soon. Still, look at how cool this guy is.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "HOBBY"
       ],
       "images": [
@@ -553,7 +553,7 @@
       "id": "1698b418-851f-4f67-959e-e9f5d74ba478",
       "title": "Dungeon Craft: Hell & Highwater",
       "description": "A collection of 880 reversible, water-resistant RPG map pieces for creating naval and infernal encounters, including boats, docks, islands, hazards, lava, siege engines, and monsters.",
-      "reason": "",
+      "reason": "This is a neat collection of map bits that you can piece together to make maps for RPGs.",
       "tags": [
          "GAME",
          "ROLEPLAYING",
@@ -562,7 +562,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/1733376615/?coliid=ITGULR3LZRED4&colid=RH86DD0HPJ8L&ref_=list_c_wl_lv_ov_lig_dp_it&th=1",
       "cost": "$$"
    },
@@ -570,7 +570,7 @@
       "id": "32d38d83-4522-4f5d-8af9-d22f2a6ed0db",
       "title": "Eclipse: Second Dawn for the Galaxy",
       "description": "A strategy board game for two to six players about exploring star systems, researching technology, building fleets, and leading an interstellar civilization to victory.",
-      "reason": "",
+      "reason": "This looks like fun, a big all day space game.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -587,11 +587,11 @@
       "id": "67690cb5-6e45-49d3-b346-7bf23c54d580",
       "title": "Stargrave: Crew II - Females",
       "description": "A set of female science-fiction crew miniatures for Stargrave. The plastic models require assembly and painting.",
-      "reason": "",
+      "reason": "These types of kits are great. They have lots of bits and parts that can be mixed and matched with other kits to make all sorts of stuff.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "HOBBY"
       ],
       "images": [
@@ -605,7 +605,7 @@
       "id": "f1da5e87-5aa3-4aab-be44-fae785641f4e",
       "title": "Frostgrave: Ghost Archipelago",
       "description": "A fantasy tabletop wargame set across the Lost Isles, where rival crews explore dangerous ruins in search of treasure, secrets, and adventure.",
-      "reason": "",
+      "reason": "These types of wargames have cool mechanics for controlling crews, the game is playing with miniatures, but also with choosing how to build and upgrade your crew between games.",
       "tags": [
          "GAME",
          "WARGAME",
@@ -614,7 +614,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/1472817346/?coliid=I2WJK3AQX31B1L&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -622,7 +622,7 @@
       "id": "872a8d5d-0dbb-41e2-b912-b9b91b8b0e58",
       "title": "Frostgrave: Second Edition",
       "description": "The second edition of the fantasy tabletop wargame set in the Frozen City, where wizards and their warbands compete for ancient treasures.",
-      "reason": "",
+      "reason": "These types of wargames have cool mechanics for controlling crews, the game is playing with miniatures, but also with choosing how to build and upgrade your crew between games.",
       "tags": [
          "GAME",
          "WARGAME",
@@ -631,7 +631,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "HIGH",
       "url": "https://www.amazon.com/dp/1472834682/?coliid=I3IMBVHXU3QL1M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -639,11 +639,11 @@
       "id": "30824049-7059-4199-bde3-99a1b4819516",
       "title": "Firefight: Assault on Exham 2-Player Set",
       "description": "A two-player starter set for Mantic Games' Firefight tabletop wargame with more than 55 Veer-Myn and Forge Father miniatures, vehicles, rules, force lists, dice, tokens, and a quick-start guide.",
-      "reason": "",
+      "reason": "Firefight looks like a fun game, and even if it's not these guys look cool and can easily be used for other games. I love me some dwarves.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "SCI-FI"
       ],
       "images": [
@@ -657,7 +657,7 @@
       "id": "267701be-b8b5-41f6-a723-6adfc8f7b1db",
       "title": "The Complete Far Side: 1980-1994",
       "description": "A complete collection of Gary Larson's The Far Side comics from 1980 through 1994.",
-      "reason": "",
+      "reason": "The original Far Side comics, I remember when these where everywhere as a kid.",
       "tags": [
          "READING",
          "COMICS",
@@ -674,7 +674,7 @@
       "id": "a37ad13a-b02b-4852-ad82-725d8c58a216",
       "title": "City of the Great Machine",
       "description": "An asymmetric steampunk strategy board game for one to four players with competitive, cooperative, and solo modes, hidden movement, variable powers, and detailed miniatures.",
-      "reason": "",
+      "reason": "I hear good things about this game, and I love games with a coop mode.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -692,7 +692,7 @@
       "id": "9f617a4d-27a7-4d2c-b5f5-4b86fce2a04c",
       "title": "Star Trek: The Next Generation Whiskey Decanter Set",
       "description": "A five-piece USS Enterprise-themed barware set with a 26-ounce decanter, stopper, and four 10-ounce glasses decorated with Star Trek insignia.",
-      "reason": "",
+      "reason": "So I can drink my lemonade like the fancy man I am.",
       "tags": [
          "DRINKWARE",
          "HOME",
@@ -709,17 +709,17 @@
       "id": "bfd4fbaa-6084-4191-bb9d-0b80e7d92dd9",
       "title": "BattleTech: Clan Command Star",
       "description": "A BattleTech force pack containing five newly sculpted, fully assembled miniatures representing distinct playable units.",
-      "reason": "",
+      "reason": "Two words. Alpha Strike.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "BATTLETECH"
       ],
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B086RVK2KZ/?coliid=I1RWIUK5YKIB9M&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -727,11 +727,11 @@
       "id": "66b9f642-4e1f-4778-ba78-869e2c890685",
       "title": "Warhammer 40,000: Leagues of Votann - Uthar the Destined",
       "description": "A Leagues of Votann character miniature that builds Uthar the Destined or a Kâhl with a selection of weapons. The model requires assembly and painting.",
-      "reason": "",
+      "reason": "This is an army I'm collecting. I don't plan to focus on them right now, but when I do already having a bunch would be great.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -745,11 +745,11 @@
       "id": "e1208785-0249-483b-be21-b2c3f3eb0261",
       "title": "Warhammer 40,000: Leagues of Votann - Brôkhyr Iron-Master",
       "description": "A Leagues of Votann engineering HQ set with a Brôkhyr Iron-Master, an Ironkin Assistant, and three E-COGs. The miniatures require assembly and painting.",
-      "reason": "",
+      "reason": "This is an army I'm collecting. I don't plan to focus on them right now, but when I do already having a bunch would be great.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -763,11 +763,11 @@
       "id": "d3145703-dbc7-47b8-ace0-00dd7811ab6e",
       "title": "Warhammer 40,000: Leagues of Votann - Grimnyr",
       "description": "A psychic Leagues of Votann HQ miniature accompanied by two CORVs for fire support and protection against psychic overload. Assembly and painting are required.",
-      "reason": "",
+      "reason": "This is an army I'm collecting. I don't plan to focus on them right now, but when I do already having a bunch would be great.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -781,11 +781,11 @@
       "id": "a75ddb98-71f8-4057-9eb4-7e4b7020bd13",
       "title": "Warhammer 40,000: Leagues of Votann - Brôkhyr Thunderkyn",
       "description": "A set of three Brôkhyr Thunderkyn heavy-support miniatures with a choice of advanced weapons. The models require assembly and painting.",
-      "reason": "",
+      "reason": "This is an army I'm collecting. I don't plan to focus on them right now, but when I do already having a bunch would be great.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -799,11 +799,11 @@
       "id": "8432af94-2018-4aef-8ed0-f7edb5582532",
       "title": "Deadzone: Forge Father Hold Warriors Starter",
       "description": "A Forge Father Hold Warriors starter set for Mantic Games' science-fiction Deadzone tabletop skirmish game.",
-      "reason": "",
+      "reason": "This is Mantic's version of kill team. I really like small scale games that I can play in something less than two hours. Also DWARVES!",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "SCI-FI"
       ],
       "images": [
@@ -817,11 +817,11 @@
       "id": "a580170c-19f4-4111-b229-ea340803851f",
       "title": "Firefight 2-Player Set: Marauders vs. Enforcers",
       "description": "A two-player science-fiction tabletop wargame set from Mantic Games featuring Marauder and Enforcer forces.",
-      "reason": "",
+      "reason": "Firefight looks like a fun game, and even if it's not these guys look cool and can easily be used for other games. I love me some orks.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "SCI-FI"
       ],
       "images": [
@@ -835,17 +835,17 @@
       "id": "82815129-0063-4d4c-a5cc-addac0ce5c04",
       "title": "Warhammer 40,000: Space Marines Venerable Dreadnought",
       "description": "A multipart plastic Venerable Dreadnought model for a Warhammer 40,000 Space Marines army, representing a veteran hero encased in a heavily armed war machine.",
-      "reason": "",
+      "reason": "My Salamander's force could use another Dreadnought.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B08KWMHRLV/?coliid=I11ELHJYL5JI4V&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$$"
    },
@@ -853,11 +853,11 @@
       "id": "624c44e2-bf1a-461a-9b56-44dc2cacfe81",
       "title": "Warhammer 40,000: Grey Knights Paladin Squad",
       "description": "A multipart plastic Grey Knights Paladin Squad kit with 153 components and five 40mm bases. The miniatures require assembly and painting.",
-      "reason": "",
+      "reason": "I originally wanted this for a Kill Team, but they dropped those rules. Now I want them for a future Grey Knights army. One day.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -871,7 +871,7 @@
       "id": "7a2aea98-18bf-419c-86c1-e1b8c56a63db",
       "title": "Legendary: Paint the Town Red Expansion",
       "description": "A 100-card expansion for Legendary: A Marvel Deck Building Game featuring five heroes, two villain groups, two masterminds, four schemes, Black Suit Spider-Man, and Carnage. The core set is required.",
-      "reason": "",
+      "reason": "An expansion for a deck builder I have. These expansions are starting to get harder and harder to find for some reason.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -889,7 +889,7 @@
       "id": "e526c98c-1df0-4e29-9256-f313f1daa9c0",
       "title": "Legendary: Venom Expansion",
       "description": "An expansion for Legendary: A Marvel Deck Building Game featuring the Venomverse team, five heroes, two villain groups, two masterminds, and four schemes. The core set is required.",
-      "reason": "",
+      "reason": "An expansion for a deck builder I have. These expansions are starting to get harder and harder to find for some reason.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -907,11 +907,11 @@
       "id": "bd34aa21-e065-49ed-96d1-93c14e4d3b63",
       "title": "Mantic Battle Tank",
       "description": "A plastic battle-tank miniature for use in a science-fiction tabletop wargame.",
-      "reason": "",
+      "reason": "Cool Dwarf Tank to go with the Firefight/Deadzone models.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "SCI-FI"
       ],
       "images": [
@@ -925,11 +925,11 @@
       "id": "883d3b6f-6ae1-4b61-b46b-cb354ddf2c71",
       "title": "Black Seas: Master & Commander Starter Set",
       "description": "An Age of Sail miniature wargame starter set with nine plastic ships, core rules, sails, rigging, flags, ship cards, markers, and tokens for naval battles.",
-      "reason": "",
+      "reason": "I love tall ships, I just think they are neat.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "NAVAL"
       ],
       "images": [
@@ -943,7 +943,7 @@
       "id": "cba43288-4295-4146-9018-a9386b9d1b77",
       "title": "The Art of John Harris: Beyond the Horizon",
       "description": "A collection showcasing the imaginative science-fiction artwork of John Harris.",
-      "reason": "",
+      "reason": "John Harris painted some very cool and icon spaceships for science fiction. Has always sparked my imagination.",
       "tags": [
          "READING",
          "ART",
@@ -952,7 +952,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/1781168423/?coliid=IM53AQM4YWX5O&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -960,7 +960,7 @@
       "id": "e76777bc-cf6d-41d7-bd36-84d6f4b7e0c6",
       "title": "Clank! Legacy: Acquisitions Incorporated - C Team",
       "description": "A character expansion featuring Donaar Blit'zen, Rosie Beestinger, Walnut Dankgrass, and K'thriss Drow'b, each with a miniature, character board, and unique starting deck.",
-      "reason": "",
+      "reason": "Only missing a few Clank! games and expansions.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -969,7 +969,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B07VMGQ7C9/?coliid=I3G5JUDP0X7O24&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -977,7 +977,7 @@
       "id": "f54ebe02-d54f-4952-a6cc-63435a649a65",
       "title": "Clank! Expeditions: Gold and Silk",
       "description": "A Clank! expansion with two new adventures: exploring an abandoned mine and confronting the Spider Queen.",
-      "reason": "",
+      "reason": "Only missing a few Clank! games and expansions.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -986,7 +986,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B07DF3ZR84/?coliid=I30OGJBBXHFS2E&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -994,7 +994,7 @@
       "id": "2e6a58f7-944e-42be-96bf-20af6de23bcd",
       "title": "Clank! Legacy: Acquisitions Incorporated - Upper Management Pack",
       "description": "An expansion pack for Clank! Legacy: Acquisitions Incorporated featuring additional upper-management characters and content.",
-      "reason": "",
+      "reason": "Only missing a few Clank! games and expansions.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -1003,7 +1003,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B07MVZF4W9/?coliid=I3ITD36KX6VZZD&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -1011,7 +1011,7 @@
       "id": "c4792f3b-f055-44b5-8815-1f7fa1c169ef",
       "title": "Clank! In! Space! Cyber Station 11",
       "description": "A Clank! In! Space! expansion with a new game board, persistent cyberware abilities, and Commander Preon's executive escape pods for two to four players.",
-      "reason": "",
+      "reason": "Only missing a few Clank! games and expansions.",
       "tags": [
          "GAME",
          "BOARDGAME",
@@ -1021,7 +1021,7 @@
       "images": [
          "01-Cover.jpg"
       ],
-      "priority": "MEDIUM",
+      "priority": "LOW",
       "url": "https://www.amazon.com/dp/B07W5JD3MN/?coliid=I1G9JJGE8OHJ4C&colid=RH86DD0HPJ8L&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it",
       "cost": "$$"
    },
@@ -1029,7 +1029,7 @@
       "id": "a81c3cfd-3d51-4f1f-a298-0c9dc1adcd0f",
       "title": "Sunnydaze Cosmic 42-inch Fire Pit",
       "description": "A large wood-burning outdoor fire pit with a 34-inch bowl, star-and-moon cutouts, safety ring, spark screen, wood grate, poker, and protective cover.",
-      "reason": "",
+      "reason": "An above ground pit! For fire! Fun fact, the only nature enemy of the pit is the pile.",
       "tags": [
          "OUTDOORS",
          "CAMPING",
@@ -1046,11 +1046,11 @@
       "id": "f47ddeb2-9fed-4afb-93fc-8f1a4f8dd4ba",
       "title": "Warhammer Age of Sigmar: Kharadron Overlords Arkanaut Frigate",
       "description": "A multipart plastic Arkanaut Frigate model for a Kharadron Overlords army. The miniature requires assembly and painting.",
-      "reason": "",
+      "reason": "This is my fantasy army. And I don't have nearly enough giant airships for it.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -1064,11 +1064,11 @@
       "id": "649953bf-74cf-4c8d-9b46-f5f448810375",
       "title": "Warhammer Age of Sigmar: Kharadron Overlords Arkanaut Ironclad",
       "description": "A 152-component multipart plastic Arkanaut Ironclad model for a Kharadron Overlords army.",
-      "reason": "",
+      "reason": "This is my fantasy army. And I don't have nearly enough giant airships for it.",
       "tags": [
          "GAME",
          "WARGAME",
-         "MINATURE",
+         "MINIATURE",
          "WARHAMMER"
       ],
       "images": [
@@ -1082,7 +1082,7 @@
       "id": "13868d8d-692d-4c0c-838e-656454e9d22a",
       "title": "ENHANCE Board Game Backpack",
       "description": "A semi-rigid board-game backpack with padded straps, a carrying handle, exterior accessory pockets, an interior support strap, and capacity for up to 60 pounds of games.",
-      "reason": "",
+      "reason": "A nice back that would let me take a small portion of my boardgame collection on the road.",
       "tags": [
          "GAME",
          "BOARDGAME",
