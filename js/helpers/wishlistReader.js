@@ -77,7 +77,7 @@ class WishlistReader {
     */
    async read() {
       try {
-         const response = await fetch("http://wishlistapi.bunchofbull.net/wishlist")
+         const response = await fetch("https://wishlistapi.bunchofbull.net/wishlist")
 
          if (!response.ok) {
             return null
