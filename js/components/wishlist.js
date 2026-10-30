@@ -35,7 +35,7 @@ function load() {
        */
       getImage(item) {
          if (item.images.length === 0) { return undefined }
-         return `https://wishlistapi.bunchofbull.net/images/${item.id}/${item.images[0]}`
+         return `images/${item.id}/${item.images[0]}`
       },
       /**
        * @param {import("../../types/wishlist").WishlistItem} item

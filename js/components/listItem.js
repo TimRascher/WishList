@@ -20,7 +20,7 @@ function load() {
        * @returns {string}
        */
       getImage(name) {
-         return `https://wishlistapi.bunchofbull.net/images/${this.item?.id}/${name}`
+         return `images/${this.item?.id}/${name}`
       },
       openURL() {
          window.open(this.item?.url, '_blank', 'noopener,noreferrer');
